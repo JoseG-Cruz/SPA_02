@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jsj"
+    }
+  },
+  "defaultProject": "jsj",
+  "cli": {
+    "analytics": false
+  }
 }
